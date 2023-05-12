@@ -1,6 +1,6 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+Official Tutorial by [Angular.io](https://angular.io/tutorial/tour-of-heroes)
 
 ## Development server
 
